@@ -1,7 +1,7 @@
 const menu = [
     {
         id: 1,
-        title: 'Jugo Queen',
+        title: 'ejemplo1',
         category: 'dessert',
         price: 12.99,
         img: 'src/images/item-1.png',
@@ -10,7 +10,7 @@ const menu = [
     },
     {
         id: 2,
-        title: 'Seco de pollo',
+        title: 'ejemplo2',
         category: 'lunch',
         price: 13.99,
         img: 'src/images/item-2.png',
@@ -19,7 +19,7 @@ const menu = [
     },
     {
         id: 3,
-        title: 'Hungry Burger',
+        title: 'ejemplo3',
         category: 'fast',
         price: 11.99,
         img: 'src/images/item-3.png',
@@ -28,7 +28,7 @@ const menu = [
     },
     {
         id: 4,
-        title: 'Torta Alemana',
+        title: 'ejemplo4',
         category: 'dessert',
         price: 8.99,
         img: 'src/images/item-4.png',
@@ -37,7 +37,7 @@ const menu = [
     },
     {
         id: 5,
-        title: 'Chaufa Fuerte',
+        title: 'ejemplo5',
         category: 'lunch',
         price: 14.99,
         img: 'src/images/item-5.png',
@@ -46,7 +46,7 @@ const menu = [
     },
     {
         id: 6,
-        title: 'Apanado',
+        title: 'ejemplo6',
         category: 'lunch',
         price: 13.99,
         img: 'src/images/item-6.png',
@@ -55,7 +55,7 @@ const menu = [
     },
     {
         id: 7,
-        title: 'Pizza Clasica',
+        title: 'ejemplo7',
         category: 'fast',
         price: 14.99,
         img: 'src/images/item-7.png',
@@ -64,7 +64,7 @@ const menu = [
     },
     {
         id: 8,
-        title: 'Torta Helada',
+        title: 'ejemplo8',
         category: 'dessert',
         price: 9.99,
         img: 'src/images/item-8.png',
@@ -73,7 +73,7 @@ const menu = [
     },
     {
         id: 9,
-        title: 'Pollo Broaster',
+        title: 'ejemplo9',
         category: 'fast',
         price: 15.99,
         img: 'src/images/item-9.png',
